@@ -1,0 +1,15 @@
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\deconstruct\bin\Debug\net6.0\deconstruct.exe
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\deconstruct\bin\Debug\net6.0\deconstruct.deps.json
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\deconstruct\bin\Debug\net6.0\deconstruct.runtimeconfig.json
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\deconstruct\bin\Debug\net6.0\deconstruct.dll
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\deconstruct\bin\Debug\net6.0\deconstruct.pdb
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\deconstruct\obj\Debug\net6.0\deconstruct.csproj.AssemblyReference.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\deconstruct\obj\Debug\net6.0\deconstruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\deconstruct\obj\Debug\net6.0\deconstruct.AssemblyInfoInputs.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\deconstruct\obj\Debug\net6.0\deconstruct.AssemblyInfo.cs
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\deconstruct\obj\Debug\net6.0\deconstruct.csproj.CoreCompileInputs.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\deconstruct\obj\Debug\net6.0\deconstruct.dll
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\deconstruct\obj\Debug\net6.0\refint\deconstruct.dll
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\deconstruct\obj\Debug\net6.0\deconstruct.pdb
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\deconstruct\obj\Debug\net6.0\deconstruct.genruntimeconfig.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\deconstruct\obj\Debug\net6.0\ref\deconstruct.dll

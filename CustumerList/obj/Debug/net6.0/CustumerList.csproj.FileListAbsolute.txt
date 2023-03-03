@@ -1,0 +1,15 @@
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\CustumerList\bin\Debug\net6.0\CustumerList.exe
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\CustumerList\bin\Debug\net6.0\CustumerList.deps.json
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\CustumerList\bin\Debug\net6.0\CustumerList.runtimeconfig.json
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\CustumerList\bin\Debug\net6.0\CustumerList.dll
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\CustumerList\bin\Debug\net6.0\CustumerList.pdb
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\CustumerList\obj\Debug\net6.0\CustumerList.csproj.AssemblyReference.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\CustumerList\obj\Debug\net6.0\CustumerList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\CustumerList\obj\Debug\net6.0\CustumerList.AssemblyInfoInputs.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\CustumerList\obj\Debug\net6.0\CustumerList.AssemblyInfo.cs
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\CustumerList\obj\Debug\net6.0\CustumerList.csproj.CoreCompileInputs.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\CustumerList\obj\Debug\net6.0\CustumerList.dll
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\CustumerList\obj\Debug\net6.0\refint\CustumerList.dll
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\CustumerList\obj\Debug\net6.0\CustumerList.pdb
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\CustumerList\obj\Debug\net6.0\CustumerList.genruntimeconfig.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\CustumerList\obj\Debug\net6.0\ref\CustumerList.dll

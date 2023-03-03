@@ -1,0 +1,15 @@
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\optional_parameters\bin\Debug\net6.0\optional_parameters.exe
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\optional_parameters\bin\Debug\net6.0\optional_parameters.deps.json
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\optional_parameters\bin\Debug\net6.0\optional_parameters.runtimeconfig.json
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\optional_parameters\bin\Debug\net6.0\optional_parameters.dll
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\optional_parameters\bin\Debug\net6.0\optional_parameters.pdb
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\optional_parameters\obj\Debug\net6.0\optional_parameters.csproj.AssemblyReference.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\optional_parameters\obj\Debug\net6.0\optional_parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\optional_parameters\obj\Debug\net6.0\optional_parameters.AssemblyInfoInputs.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\optional_parameters\obj\Debug\net6.0\optional_parameters.AssemblyInfo.cs
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\optional_parameters\obj\Debug\net6.0\optional_parameters.csproj.CoreCompileInputs.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\optional_parameters\obj\Debug\net6.0\optional_parameters.dll
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\optional_parameters\obj\Debug\net6.0\refint\optional_parameters.dll
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\optional_parameters\obj\Debug\net6.0\optional_parameters.pdb
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\optional_parameters\obj\Debug\net6.0\optional_parameters.genruntimeconfig.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\optional_parameters\obj\Debug\net6.0\ref\optional_parameters.dll

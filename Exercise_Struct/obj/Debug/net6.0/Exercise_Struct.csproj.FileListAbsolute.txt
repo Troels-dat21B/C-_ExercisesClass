@@ -1,0 +1,15 @@
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Exercise_Struct\bin\Debug\net6.0\Exercise_Struct.exe
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Exercise_Struct\bin\Debug\net6.0\Exercise_Struct.deps.json
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Exercise_Struct\bin\Debug\net6.0\Exercise_Struct.runtimeconfig.json
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Exercise_Struct\bin\Debug\net6.0\Exercise_Struct.dll
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Exercise_Struct\bin\Debug\net6.0\Exercise_Struct.pdb
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Exercise_Struct\obj\Debug\net6.0\Exercise_Struct.csproj.AssemblyReference.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Exercise_Struct\obj\Debug\net6.0\Exercise_Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Exercise_Struct\obj\Debug\net6.0\Exercise_Struct.AssemblyInfoInputs.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Exercise_Struct\obj\Debug\net6.0\Exercise_Struct.AssemblyInfo.cs
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Exercise_Struct\obj\Debug\net6.0\Exercise_Struct.csproj.CoreCompileInputs.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Exercise_Struct\obj\Debug\net6.0\Exercise_Struct.dll
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Exercise_Struct\obj\Debug\net6.0\refint\Exercise_Struct.dll
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Exercise_Struct\obj\Debug\net6.0\Exercise_Struct.pdb
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Exercise_Struct\obj\Debug\net6.0\Exercise_Struct.genruntimeconfig.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Exercise_Struct\obj\Debug\net6.0\ref\Exercise_Struct.dll

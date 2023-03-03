@@ -1,0 +1,15 @@
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\value_modification\bin\Debug\net6.0\value_modification.exe
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\value_modification\bin\Debug\net6.0\value_modification.deps.json
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\value_modification\bin\Debug\net6.0\value_modification.runtimeconfig.json
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\value_modification\bin\Debug\net6.0\value_modification.dll
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\value_modification\bin\Debug\net6.0\value_modification.pdb
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\value_modification\obj\Debug\net6.0\value_modification.csproj.AssemblyReference.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\value_modification\obj\Debug\net6.0\value_modification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\value_modification\obj\Debug\net6.0\value_modification.AssemblyInfoInputs.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\value_modification\obj\Debug\net6.0\value_modification.AssemblyInfo.cs
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\value_modification\obj\Debug\net6.0\value_modification.csproj.CoreCompileInputs.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\value_modification\obj\Debug\net6.0\value_modification.dll
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\value_modification\obj\Debug\net6.0\refint\value_modification.dll
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\value_modification\obj\Debug\net6.0\value_modification.pdb
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\value_modification\obj\Debug\net6.0\value_modification.genruntimeconfig.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\value_modification\obj\Debug\net6.0\ref\value_modification.dll
