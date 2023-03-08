@@ -10,6 +10,8 @@ class Person
     public string occupation { get; set; } = string.Empty;
     public decimal salary { get; set; }
 
+
+
     public (string, int, string, decimal) getPersonInfo()
     {
         return (name, age, occupation, salary);
