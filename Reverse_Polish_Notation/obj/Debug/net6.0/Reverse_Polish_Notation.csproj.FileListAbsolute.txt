@@ -1,0 +1,15 @@
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Reverse_Polish_Notation\bin\Debug\net6.0\Reverse_Polish_Notation.exe
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Reverse_Polish_Notation\bin\Debug\net6.0\Reverse_Polish_Notation.deps.json
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Reverse_Polish_Notation\bin\Debug\net6.0\Reverse_Polish_Notation.runtimeconfig.json
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Reverse_Polish_Notation\bin\Debug\net6.0\Reverse_Polish_Notation.dll
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Reverse_Polish_Notation\bin\Debug\net6.0\Reverse_Polish_Notation.pdb
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Reverse_Polish_Notation\obj\Debug\net6.0\Reverse_Polish_Notation.csproj.AssemblyReference.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Reverse_Polish_Notation\obj\Debug\net6.0\Reverse_Polish_Notation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Reverse_Polish_Notation\obj\Debug\net6.0\Reverse_Polish_Notation.AssemblyInfoInputs.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Reverse_Polish_Notation\obj\Debug\net6.0\Reverse_Polish_Notation.AssemblyInfo.cs
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Reverse_Polish_Notation\obj\Debug\net6.0\Reverse_Polish_Notation.csproj.CoreCompileInputs.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Reverse_Polish_Notation\obj\Debug\net6.0\Reverse_Polish_Notation.dll
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Reverse_Polish_Notation\obj\Debug\net6.0\refint\Reverse_Polish_Notation.dll
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Reverse_Polish_Notation\obj\Debug\net6.0\Reverse_Polish_Notation.pdb
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Reverse_Polish_Notation\obj\Debug\net6.0\Reverse_Polish_Notation.genruntimeconfig.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\Reverse_Polish_Notation\obj\Debug\net6.0\ref\Reverse_Polish_Notation.dll
