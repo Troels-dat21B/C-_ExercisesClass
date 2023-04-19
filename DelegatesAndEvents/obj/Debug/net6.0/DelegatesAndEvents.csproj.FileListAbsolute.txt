@@ -1,0 +1,15 @@
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\DelegatesAndEvents\bin\Debug\net6.0\DelegatesAndEvents.exe
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\DelegatesAndEvents\bin\Debug\net6.0\DelegatesAndEvents.deps.json
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\DelegatesAndEvents\bin\Debug\net6.0\DelegatesAndEvents.runtimeconfig.json
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\DelegatesAndEvents\bin\Debug\net6.0\DelegatesAndEvents.dll
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\DelegatesAndEvents\bin\Debug\net6.0\DelegatesAndEvents.pdb
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\DelegatesAndEvents\obj\Debug\net6.0\DelegatesAndEvents.csproj.AssemblyReference.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\DelegatesAndEvents\obj\Debug\net6.0\DelegatesAndEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\DelegatesAndEvents\obj\Debug\net6.0\DelegatesAndEvents.AssemblyInfoInputs.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\DelegatesAndEvents\obj\Debug\net6.0\DelegatesAndEvents.AssemblyInfo.cs
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\DelegatesAndEvents\obj\Debug\net6.0\DelegatesAndEvents.csproj.CoreCompileInputs.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\DelegatesAndEvents\obj\Debug\net6.0\DelegatesAndEvents.dll
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\DelegatesAndEvents\obj\Debug\net6.0\refint\DelegatesAndEvents.dll
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\DelegatesAndEvents\obj\Debug\net6.0\DelegatesAndEvents.pdb
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\DelegatesAndEvents\obj\Debug\net6.0\DelegatesAndEvents.genruntimeconfig.cache
+C:\Users\troel\Skrivebord\C# projects\C# Exercises\DelegatesAndEvents\obj\Debug\net6.0\ref\DelegatesAndEvents.dll
